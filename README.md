@@ -1,2 +1,8 @@
-# react-video-library
-YT - Search
+
+
+### Getting Started
+
+
+> npm install
+> npm start
+```
